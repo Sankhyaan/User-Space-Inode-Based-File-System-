@@ -9,3 +9,4 @@ information, directory entries for filename-to-inode mapping, and data blocks fo
 bitmap-based allocation mechanism manages free inodes and data blocks. The implementation is fully
 operational and demonstrates key operating system concepts including storage abstraction, hierarchical path
 resolution, metadata management, and block allocation strategies.
+ 
