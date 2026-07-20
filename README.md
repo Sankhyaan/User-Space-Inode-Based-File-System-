@@ -8,5 +8,5 @@ file system layout consists of a superblock for global metadata, an inode table 
 information, directory entries for filename-to-inode mapping, and data blocks for storing file contents. A
 bitmap-based allocation mechanism manages free inodes and data blocks. The implementation is fully
 operational and demonstrates key operating system concepts including storage abstraction, hierarchical path
-resolution, metadata management, and block allocation strategies.  
+resolution, metadata management, and block allocation strategies.
  
